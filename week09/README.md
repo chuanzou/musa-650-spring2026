@@ -1,6 +1,6 @@
 # Week 09 — Deep Learning for Image Segmentation
 
-This folder contains materials for an introductory Deep Learning session, covering the core concepts of neural networks and applying them to image classification and segmentation.
+This folder contains materials for the second Deep Learning session, covering the concepts of convolutional neural networks and applying them for image classification and segmentation.
 
 ## Contents
 
